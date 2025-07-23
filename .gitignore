@@ -1,0 +1,12 @@
+deps
+cuda-build
+x86-64-build
+aarch64-build
+pplcv-build
+x86_ocl-build
+aarch64_ocl-build
+.vscode
+.idea
+.swp
+build
+html
